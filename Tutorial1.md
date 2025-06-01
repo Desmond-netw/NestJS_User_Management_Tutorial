@@ -1,0 +1,3 @@
+# Building a Full-Stack User Management System with NestJS, PostgreSQL, TypeORM, and React
+
+## _Welcome to this step-by-step tutorial for building a full-stack user management system! We will use NestJS for our back-end (with PostgreSQL, TypeORM, Passport for authentication, class-validator for validation, and class-transformer for serialization), and React for our front-end. This tutorial is beginner-friendly, with all steps explained in the logical order of implementation
