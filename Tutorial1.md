@@ -60,3 +60,14 @@ This installs the Nest CLI globally on your system. You can verify the installat
 
 ### Creating a NestJS Project
 Next, create a new NestJS project. For this tutorial, we'll call it "user-auth-system":
+```sh
+nest new users
+```
+This command scaffolds a new NestJS project in a directory named user-auth-system. During setup, Nest may ask which package manager to use (npm or yarn)—choose your preference.
+
+Once the command completes, navigate into the project directory:
+```sh
+cd users
+```
+
+You'll see a typical NestJS project structure (with [src/] containing [main.ts], [app.module.ts], etc.)
