@@ -38,9 +38,9 @@ When a user registers or logs in from the React frontend, the app will send HTTP
 
 With the overview out of the way, let's set up our backend!
 
-<a id="item-2"></a>
+ <a id="item-2"></a>
 ## Setting Up the Backend with NestJS
-
+s
 ### Creating NestJS Resources in Nx
 
 > [!Warning]
