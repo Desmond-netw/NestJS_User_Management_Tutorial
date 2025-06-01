@@ -4,16 +4,17 @@
 
 ## Table of Contents
 
-1. [Introduction to the Stack](#introduction)
-2. [Setting Up the Backend with NestJS](#settingupbackend)
+1. [Introduction to the Stack](#item-1)
+2. [Setting Up the Backend with NestJS](#item-2)
     - Installing NestJS CLI
     - Creating a NestJS Project
     - Adding Dependencies
-3. [Configuring PostgreSQL & TypeORM](#configuringPostgreSQL)
+3. [Configuring PostgreSQL & TypeORM](#item-3)
     - Database Creation
     - Global TypeORM Configuration
 * Creating the User Module
 
+<a id="item-1"></a>
 ## Introduction to the Stack
 Before we start coding, let's briefly introduce the technologies we'll use and how they fit together:
 
@@ -37,6 +38,7 @@ When a user registers or logs in from the React frontend, the app will send HTTP
 
 With the overview out of the way, let's set up our backend!
 
+<a id="item-2"></a>
 ## Setting Up the Backend with NestJS
 
 ### Creating NestJS Resources in Nx
